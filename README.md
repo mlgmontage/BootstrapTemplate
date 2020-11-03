@@ -4,7 +4,7 @@
 
 - [ ] Header
 - [x] Navbar
-- [ ] Footer
+- [x] Footer
 
 ### Pages
 
