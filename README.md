@@ -5,6 +5,8 @@
 - [ ] Header
 - [x] Navbar
 - [x] Footer
+- [ ] Carousel
+- [x] Cards
 
 ### Pages
 
