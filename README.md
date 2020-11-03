@@ -13,3 +13,4 @@
 - [ ] Contact page
 - [ ] About page
 - [ ] Register page
+- [x] Cover page
