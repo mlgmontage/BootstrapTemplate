@@ -3,7 +3,7 @@
 ### Parts/Elements
 
 - [ ] Header
-- [ ] Navbar
+- [x] Navbar
 - [ ] Footer
 
 ### Pages
